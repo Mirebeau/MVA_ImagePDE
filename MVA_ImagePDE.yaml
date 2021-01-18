@@ -1,0 +1,17 @@
+name: MVA_ImagePDE
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - matplotlib
+  - notebook
+  - scipy
+#  - conda-build
+#  - conda-verify
+#  - anaconda-client
+#  - nbformat
+#  - nbdime
+#  - ffmpeg
+#  - cudatoolkit
+#  - pip
+#  - ipywidgets
