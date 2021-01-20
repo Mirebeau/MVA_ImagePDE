@@ -11,7 +11,7 @@ Ce dépôt : https://github.com/Mirebeau/MVA_ImagePDE
 ## Notes de cours
 
 Ces notes seront étendues au fur et a mesure du cours.
-Document : [`MVA.pdf`](https://dl.dropbox.com/s/8yykzip9y69fwkk/MVA.pdf)
+Document : [`MVA.pdf`](MVA.pdf)
 
 ## Travaux pratiques en langage Python
 
