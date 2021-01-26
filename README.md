@@ -30,28 +30,28 @@ TP1 : Techniques de différentiation automatique
 * Solutions :
  - Fichiers : Dense, Sparse : voir TP1/
  - Liens Colab :
-  [Dense](https://colab.research.google.com/notebook#fileId=1cF26zZz8LAbrL7gbbWEtyYdBtlTSBwVL&offline=true&sandboxMode=true)
+  [Dense](https://colab.research.google.com/notebook#fileId=1cF26zZz8LAbrL7gbbWEtyYdBtlTSBwVL&offline=true&sandboxMode=true),
   [Sparse](https://colab.research.google.com/notebook#fileId=1tifdb1jjVJP9TCUpVWYghiXgOEhbAaHI&offline=true&sandboxMode=true)
 
 TP2 : Diffusion anisotrope
 * Enoncés 
  - Fichers : 
- [Algorithme de Selling](https://drive.google.com/file/d/1adPejCBWfUmBnn8A_3XaW0W_PuAZI9MU/view?usp=sharing)
- [Diffusion anisotrope](https://drive.google.com/file/d/1CY3v6gyhRVgPbsuzwfgt-kGfXzEMZWWL/view?usp=sharing)
+ [Algorithme de Selling](https://drive.google.com/file/d/1adPejCBWfUmBnn8A_3XaW0W_PuAZI9MU/view?usp=sharing),
+ [Diffusion anisotrope](https://drive.google.com/file/d/1CY3v6gyhRVgPbsuzwfgt-kGfXzEMZWWL/view?usp=sharing),
  [Chaleur et ondes 1D, par formulation variationelle](https://drive.google.com/file/d/10s3kP6pAzZTf0DspG3M5j-Pfmu5M6wKc/view?usp=sharing)
  - Liens Colab : 
- [Algorithme de Selling](https://colab.research.google.com/notebook#fileId=1adPejCBWfUmBnn8A_3XaW0W_PuAZI9MU&offline=true&sandboxMode=true)
- [Diffusion anisotrope](https://colab.research.google.com/notebook#fileId=1CY3v6gyhRVgPbsuzwfgt-kGfXzEMZWWL&offline=true&sandboxMode=true)
+ [Algorithme de Selling](https://colab.research.google.com/notebook#fileId=1adPejCBWfUmBnn8A_3XaW0W_PuAZI9MU&offline=true&sandboxMode=true),
+ [Diffusion anisotrope](https://colab.research.google.com/notebook#fileId=1CY3v6gyhRVgPbsuzwfgt-kGfXzEMZWWL&offline=true&sandboxMode=true),
  [Chaleur et ondes 1D, par formulation variationelle](https://colab.research.google.com/notebook#fileId=10s3kP6pAzZTf0DspG3M5j-Pfmu5M6wKc&offline=true&sandboxMode=true)
 
 * Solutions
  - Fichiers 
- [Algorithme de Selling](https://drive.google.com/open?id=1dMHXDYJoQBI_EtvQTcR15pbJaiP03S0p)
- [Diffusion anisotrope](https://drive.google.com/open?id=1u6_XthpxwycWYIusJoP26x37n2Fvbevh)
+ [Algorithme de Selling](https://drive.google.com/open?id=1dMHXDYJoQBI_EtvQTcR15pbJaiP03S0p),
+ [Diffusion anisotrope](https://drive.google.com/open?id=1u6_XthpxwycWYIusJoP26x37n2Fvbevh),
  [Chaleur et ondes 1D, par formulation variationelle](https://drive.google.com/open?id=12fuUVP1BHfJhWOupAL4wLADSf9VYPyjM)
  - Liens Colab
- [Algorithme de Selling](https://colab.research.google.com/notebook#fileId=1dMHXDYJoQBI_EtvQTcR15pbJaiP03S0p&offline=true&sandboxMode=true)
- [Diffusion anisotrope](https://colab.research.google.com/notebook#fileId=1u6_XthpxwycWYIusJoP26x37n2Fvbevh&offline=true&sandboxMode=true)
+ [Algorithme de Selling](https://colab.research.google.com/notebook#fileId=1dMHXDYJoQBI_EtvQTcR15pbJaiP03S0p&offline=true&sandboxMode=true),
+ [Diffusion anisotrope](https://colab.research.google.com/notebook#fileId=1u6_XthpxwycWYIusJoP26x37n2Fvbevh&offline=true&sandboxMode=true),
  [Chaleur et ondes 1D, par formulation variationelle](https://colab.research.google.com/notebook#fileId=12fuUVP1BHfJhWOupAL4wLADSf9VYPyjM&offline=true&sandboxMode=true)
 
 
