@@ -76,6 +76,16 @@ TP3 : chaleur et géodésiques
  [Diffusion anisotrope](https://colab.research.google.com/notebook#fileId=1u6_XthpxwycWYIusJoP26x37n2Fvbevh&offline=true&sandboxMode=true),
  [Chaleur et ondes 1D](https://colab.research.google.com/notebook#fileId=12fuUVP1BHfJhWOupAL4wLADSf9VYPyjM&offline=true&sandboxMode=true)
 
+TP4 : transport optimal entropique
+
+* Enoncés
+- Fichiers
+ Formule de Varadhan - à terminer - dans TP4/
+ [transport entropique](https://dl.dropbox.com/s/xiwt6y76vkf0ypr/Sinkhorn_Exo.ipynb?dl=0)
+
+- Solutions
+ [transport entropique](https://dl.dropbox.com/s/a150x3ib3zd3gx4/Sinkhorn.ipynb?dl=0)
+
 ## Environnement
 
 Les travaux pratiques peuvent être exécutés soit:
