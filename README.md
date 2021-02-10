@@ -83,8 +83,15 @@ TP4 : transport optimal entropique
  Formule de Varadhan - à terminer - dans TP4/
  [transport entropique](https://dl.dropbox.com/s/xiwt6y76vkf0ypr/Sinkhorn_Exo.ipynb?dl=0)
 
-- Solutions
+* Solutions
  [transport entropique](https://dl.dropbox.com/s/a150x3ib3zd3gx4/Sinkhorn.ipynb?dl=0)
+
+TP5 : Résolution numérique de l'équation eikonale
+* Enoncés
+[Eikonal GPU](https://colab.research.google.com/notebook#fileId=182TnSY0Glaabm-LLuoooScIVQNIcuT4n&offline=true&sandboxMode=true)
+
+* Solutions
+[Eikonal GPU](https://colab.research.google.com/notebook#fileId=1Y7mJ3SdD3GRm0QCtV1bRgHShzBzeLk-j&offline=true&sandboxMode=true)
 
 ## Environnement
 
