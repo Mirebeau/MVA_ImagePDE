@@ -81,17 +81,26 @@ TP4 : transport optimal entropique
 * Enoncés
 - Fichiers
  Formule de Varadhan - à terminer - dans TP4/
- [transport entropique](https://dl.dropbox.com/s/xiwt6y76vkf0ypr/Sinkhorn_Exo.ipynb?dl=0)
+ [transport entropique](https://www.dropbox.com/s/xiwt6y76vkf0ypr/Sinkhorn_Exo.ipynb?dl=0)
 
 * Solutions
- [transport entropique](https://dl.dropbox.com/s/a150x3ib3zd3gx4/Sinkhorn.ipynb?dl=0)
+ [transport entropique](https://www.dropbox.com/s/a150x3ib3zd3gx4/Sinkhorn.ipynb?dl=0)
 
 TP5 : Résolution numérique de l'équation eikonale
 * Enoncés
 [Eikonal GPU](https://colab.research.google.com/notebook#fileId=182TnSY0Glaabm-LLuoooScIVQNIcuT4n&offline=true&sandboxMode=true)
+[Schema monotone (équation de Pucci)](https://www.dropbox.com/s/i80w95ozagihych/nonlinearmonotonesecond2d_exo.ipynb)
+[Schémas monotones 1D](https://www.dropbox.com/s/nakbw8pgfcl7uqs/MonotoneSchemes1D_Exo.ipynb?dl=0)
 
 * Solutions
 [Eikonal GPU](https://colab.research.google.com/notebook#fileId=1Y7mJ3SdD3GRm0QCtV1bRgHShzBzeLk-j&offline=true&sandboxMode=true)
+[Schema monotone (équation de Pucci)](https://www.dropbox.com/s/ta2g5it36yapyc1/nonlinearmonotonesecond2d.ipynb?dl=0)
+[Schémas monotones 1D](https://www.dropbox.com/s/xhbozst3le6qaqo/MonotoneSchemes1D.ipynb?dl=0)
+
+<!---
+TP6 : Applications de l'équation eikonale
+* Enoncés
+--->
 
 ## Environnement
 
