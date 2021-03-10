@@ -103,6 +103,14 @@ TP6 : Applications de l'équation eikonale
 * Solutions [Tubular structure segmentation](https://www.dropbox.com/s/dtzc3q2vjazyocc/Tubular.ipynb?dl=0), 
 [Curvature penalization](https://www.dropbox.com/s/xt7stg05oqcnwk4/DeviationHorizontality.ipynb?dl=0).
 
+* Enoncés, version Colab.
+[Tubular structure segmentation](https://colab.research.google.com/1pLHYt0UocFeHbjOp5SkS7NvB6XT2ALgx&offline=true&sandboxMode=true),
+[Curvature penalization](https://colab.research.google.com/notebook#fileId=1m1362Cskq8PVUbOZqMiUcYgez9IZHXqG&offline=true&sandboxMode=true).
+
+<!---
+* Solutions, version Colab.
+[Tubular structure segmentation](
+--->
 
 ## Environnement
 
