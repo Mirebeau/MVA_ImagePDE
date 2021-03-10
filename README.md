@@ -88,19 +88,21 @@ TP4 : transport optimal entropique
 
 TP5 : Résolution numérique de l'équation eikonale
 * Enoncés
-[Eikonal GPU](https://colab.research.google.com/notebook#fileId=182TnSY0Glaabm-LLuoooScIVQNIcuT4n&offline=true&sandboxMode=true)
-[Schema monotone (équation de Pucci)](https://www.dropbox.com/s/i80w95ozagihych/nonlinearmonotonesecond2d_exo.ipynb)
-[Schémas monotones 1D](https://www.dropbox.com/s/nakbw8pgfcl7uqs/MonotoneSchemes1D_Exo.ipynb?dl=0)
+[Eikonal GPU](https://colab.research.google.com/notebook#fileId=182TnSY0Glaabm-LLuoooScIVQNIcuT4n&offline=true&sandboxMode=true),
+[Schema monotone (équation de Pucci)](https://www.dropbox.com/s/i80w95ozagihych/nonlinearmonotonesecond2d_exo.ipynb),
+[Schémas monotones 1D](https://www.dropbox.com/s/nakbw8pgfcl7uqs/MonotoneSchemes1D_Exo.ipynb?dl=0).
 
 * Solutions
-[Eikonal GPU](https://colab.research.google.com/notebook#fileId=1Y7mJ3SdD3GRm0QCtV1bRgHShzBzeLk-j&offline=true&sandboxMode=true)
-[Schema monotone (équation de Pucci)](https://www.dropbox.com/s/ta2g5it36yapyc1/nonlinearmonotonesecond2d.ipynb?dl=0)
-[Schémas monotones 1D](https://www.dropbox.com/s/xhbozst3le6qaqo/MonotoneSchemes1D.ipynb?dl=0)
+[Eikonal GPU](https://colab.research.google.com/notebook#fileId=1Y7mJ3SdD3GRm0QCtV1bRgHShzBzeLk-j&offline=true&sandboxMode=true),
+[Schema monotone (équation de Pucci)](https://www.dropbox.com/s/ta2g5it36yapyc1/nonlinearmonotonesecond2d.ipynb?dl=0),
+[Schémas monotones 1D](https://www.dropbox.com/s/xhbozst3le6qaqo/MonotoneSchemes1D.ipynb?dl=0).
 
-<!---
 TP6 : Applications de l'équation eikonale
-* Enoncés
---->
+* Enoncés [Tubular structure segmentation](https://www.dropbox.com/s/a5l4vh7ngk19mar/Tubular_Exo.ipynb?dl=0), 
+[Curvature penalization](https://www.dropbox.com/s/z006km415quurrx/DeviationHorizontality_Exo.ipynb?dl=0).
+* Solutions [Tubular structure segmentation](https://www.dropbox.com/s/dtzc3q2vjazyocc/Tubular.ipynb?dl=0), 
+[Curvature penalization](https://www.dropbox.com/s/xt7stg05oqcnwk4/DeviationHorizontality.ipynb?dl=0).
+
 
 ## Environnement
 
