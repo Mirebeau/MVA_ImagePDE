@@ -15,7 +15,7 @@ Document : [`MVA.pdf`](MVA.pdf)
 
 ## Travaux pratiques en langage Python
 
-Note: 
+Note:
  - Dans certains notebooks, pour exécuter sur CPU (et non GPU), il faut commenter la cellule de la section 0.1.
  - Les notebooks nécessitent la librarie agd, qui s'installe via !pip install agd (notamment sur Google Colab).
 
@@ -39,16 +39,16 @@ TP1 : Techniques de différentiation automatique
 
 TP2 : Diffusion anisotrope
 
-* Enoncés 
- - Fichers : 
+* Enoncés
+ - Fichers :
  [Algorithme de Selling](https://drive.google.com/file/d/1adPejCBWfUmBnn8A_3XaW0W_PuAZI9MU/view?usp=sharing),
  [Diffusion anisotrope](https://drive.google.com/file/d/1CY3v6gyhRVgPbsuzwfgt-kGfXzEMZWWL/view?usp=sharing)
- - Liens Colab : 
+ - Liens Colab :
  [Algorithme de Selling](https://colab.research.google.com/notebook#fileId=1adPejCBWfUmBnn8A_3XaW0W_PuAZI9MU&offline=true&sandboxMode=true),
  [Diffusion anisotrope](https://colab.research.google.com/notebook#fileId=1CY3v6gyhRVgPbsuzwfgt-kGfXzEMZWWL&offline=true&sandboxMode=true)
 
 * Solutions
- - Fichiers 
+ - Fichiers
  [Algorithme de Selling](https://drive.google.com/open?id=1dMHXDYJoQBI_EtvQTcR15pbJaiP03S0p),
  [Diffusion anisotrope](https://drive.google.com/open?id=1u6_XthpxwycWYIusJoP26x37n2Fvbevh),
 
@@ -63,12 +63,12 @@ TP3 : chaleur et géodésiques
  Diffusion anisotrope - à terminer - dans TP3/,
  Formule de Varadhan : voir TP3/,
  [Chaleur et ondes 1D](https://drive.google.com/file/d/10s3kP6pAzZTf0DspG3M5j-Pfmu5M6wKc/view?usp=sharing)
- - Liens Colab : 
+ - Liens Colab :
  ,
  [Chaleur et ondes 1D](https://colab.research.google.com/notebook#fileId=10s3kP6pAzZTf0DspG3M5j-Pfmu5M6wKc&offline=true&sandboxMode=true)
 
 * Solutions
- - Fichiers 
+ - Fichiers
   [Diffusion anisotrope](https://drive.google.com/open?id=1u6_XthpxwycWYIusJoP26x37n2Fvbevh),
   Formule de Varadhan : voir TP3/Solutions
   [Chaleur et ondes 1D](https://drive.google.com/open?id=12fuUVP1BHfJhWOupAL4wLADSf9VYPyjM)
@@ -88,19 +88,14 @@ TP4 : transport optimal entropique
 
 TP5 : Résolution numérique de l'équation eikonale
 * Enoncés
-[Eikonal GPU](https://colab.research.google.com/notebook#fileId=182TnSY0Glaabm-LLuoooScIVQNIcuT4n&offline=true&sandboxMode=true),
-[Schema monotone (équation de Pucci)](https://www.dropbox.com/s/i80w95ozagihych/nonlinearmonotonesecond2d_exo.ipynb),
-[Schémas monotones 1D](https://www.dropbox.com/s/nakbw8pgfcl7uqs/MonotoneSchemes1D_Exo.ipynb?dl=0).
-
+[Eikonal GPU](https://colab.research.google.com/notebook#fileId=182TnSY0Glaabm-LLuoooScIVQNIcuT4n&offline=true&sandboxMode=true).
 * Solutions
 [Eikonal GPU](https://colab.research.google.com/notebook#fileId=1Y7mJ3SdD3GRm0QCtV1bRgHShzBzeLk-j&offline=true&sandboxMode=true),
-[Schema monotone (équation de Pucci)](https://www.dropbox.com/s/ta2g5it36yapyc1/nonlinearmonotonesecond2d.ipynb?dl=0),
-[Schémas monotones 1D](https://www.dropbox.com/s/xhbozst3le6qaqo/MonotoneSchemes1D.ipynb?dl=0).
 
 TP6 : Applications de l'équation eikonale
-* Enoncés [Tubular structure segmentation](https://www.dropbox.com/s/a5l4vh7ngk19mar/Tubular_Exo.ipynb?dl=0), 
+* Enoncés [Tubular structure segmentation](https://www.dropbox.com/s/a5l4vh7ngk19mar/Tubular_Exo.ipynb?dl=0),
 [Curvature penalization](https://www.dropbox.com/s/z006km415quurrx/DeviationHorizontality_Exo.ipynb?dl=0).
-* Solutions [Tubular structure segmentation](https://www.dropbox.com/s/dtzc3q2vjazyocc/Tubular.ipynb?dl=0), 
+* Solutions [Tubular structure segmentation](https://www.dropbox.com/s/dtzc3q2vjazyocc/Tubular.ipynb?dl=0),
 [Curvature penalization](https://www.dropbox.com/s/xt7stg05oqcnwk4/DeviationHorizontality.ipynb?dl=0).
 
 * Enoncés, version Colab.
@@ -110,6 +105,16 @@ TP6 : Applications de l'équation eikonale
 * Solutions, version Colab.
 [Tubular structure segmentation](https://colab.research.google.com/1AMLRDrNQVXLnOdsracx4ZSwPR7bgi3J9&offline=true&sandboxMode=true),
 [Curvature penalization](https://colab.research.google.com/notebook#1x309yEmht-G8sy9dxJN2LGeOE4INdnmW&offline=true&sandboxMode=true).
+
+TP7 : Chemins optimaux avec pénalisation de la courbure
+* Enoncés.
+Terminer DeviationHorizontality_Exo_DemiFait dans le sous-dossier TP7.
+Si le temps le permet, autres exemples d'utilisation des schémas monotones:
+[Schema monotone (équation de Pucci)](https://www.dropbox.com/s/i80w95ozagihych/nonlinearmonotonesecond2d_exo.ipynb),
+[Schémas monotones 1D](https://www.dropbox.com/s/nakbw8pgfcl7uqs/MonotoneSchemes1D_Exo.ipynb?dl=0).
+* Solutions
+[Schema monotone (équation de Pucci)](https://www.dropbox.com/s/ta2g5it36yapyc1/nonlinearmonotonesecond2d.ipynb?dl=0),
+[Schémas monotones 1D](https://www.dropbox.com/s/xhbozst3le6qaqo/MonotoneSchemes1D.ipynb?dl=0).
 
 ## Environnement
 

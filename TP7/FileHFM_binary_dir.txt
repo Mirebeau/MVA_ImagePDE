@@ -1,0 +1,3 @@
+/Users/mirebeau/bin/HamiltonFastMarching/FileHFM/Release
+/Users/mirebeau/bin/HamiltonFastMarching/FileHFM/Debug
+None
