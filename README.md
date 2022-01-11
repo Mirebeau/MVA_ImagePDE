@@ -56,6 +56,8 @@ TP2 : Diffusion anisotrope
  [Algorithme de Selling](https://colab.research.google.com/notebook#fileId=1dMHXDYJoQBI_EtvQTcR15pbJaiP03S0p&offline=true&sandboxMode=true),
  [Diffusion anisotrope](https://colab.research.google.com/notebook#fileId=1u6_XthpxwycWYIusJoP26x37n2Fvbevh&offline=true&sandboxMode=true)
 
+<!---
+
 TP3 : chaleur et géodésiques
 
 * Enoncés
@@ -115,6 +117,8 @@ Si le temps le permet, autres exemples d'utilisation des schémas monotones:
 * Solutions
 [Schema monotone (équation de Pucci)](https://www.dropbox.com/s/ta2g5it36yapyc1/nonlinearmonotonesecond2d.ipynb?dl=0),
 [Schémas monotones 1D](https://www.dropbox.com/s/xhbozst3le6qaqo/MonotoneSchemes1D.ipynb?dl=0).
+
+--->
 
 ## Environnement
 
