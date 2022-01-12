@@ -2,11 +2,13 @@
 
 Notes de cours et travaux pratiques pour le cours "EDPs numériques pour le traitement d'image"
 
+<!---
 ## Liens
 
 Salle de cours : https://bbb2.imo.universite-paris-saclay.fr/b/jea-fhp-zcj
 
 Ce dépôt : https://github.com/Mirebeau/MVA_ImagePDE
+--->
 
 ## Notes de cours
 
