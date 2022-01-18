@@ -2,6 +2,10 @@
 
 Notes de cours et travaux pratiques pour le cours "EDPs numériques pour le traitement d'image"
 
+## Important ! Cours en distanciel le 19 janvier 2022
+
+Salle de cours : https://bbb2.imo.universite-paris-saclay.fr/b/jea-ujt-mp2
+
 <!---
 ## Liens
 
