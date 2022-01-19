@@ -1,11 +1,13 @@
 name: MVA_ImagePDE
 channels:
   - conda-forge
+  - agd-lbr
 dependencies:
   - python>=3.8
   - matplotlib
   - notebook
   - scipy
+  - agd
 #  - conda-build
 #  - conda-verify
 #  - anaconda-client
