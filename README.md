@@ -62,7 +62,6 @@ TP2 : Diffusion anisotrope
  [Algorithme de Selling](https://colab.research.google.com/notebook#fileId=1dMHXDYJoQBI_EtvQTcR15pbJaiP03S0p&offline=true&sandboxMode=true),
  [Diffusion anisotrope](https://colab.research.google.com/notebook#fileId=1u6_XthpxwycWYIusJoP26x37n2Fvbevh&offline=true&sandboxMode=true)
 
-<!---
 
 TP3 : chaleur et géodésiques
 
@@ -83,6 +82,9 @@ TP3 : chaleur et géodésiques
  - Liens Colab
  [Diffusion anisotrope](https://colab.research.google.com/notebook#fileId=1u6_XthpxwycWYIusJoP26x37n2Fvbevh&offline=true&sandboxMode=true),
  [Chaleur et ondes 1D](https://colab.research.google.com/notebook#fileId=12fuUVP1BHfJhWOupAL4wLADSf9VYPyjM&offline=true&sandboxMode=true)
+
+<!---
+
 
 TP4 : transport optimal entropique
 
