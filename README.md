@@ -78,7 +78,7 @@ Finir la diffusion anisotrope
 * Enoncés
  - Fichiers : 
   Formule de Varadhan : voir TP3/
-  [Via Colab](https://drive.google.com/open?id=1-00l_6sysNFuUNWuvTvGkQYsVObJ9Jzz&authuser=jm.mirebeau%40gmail.com&usp=drive_fs)
+  [Via Colab](https://drive.google.com/file/d/1-00l_6sysNFuUNWuvTvGkQYsVObJ9Jzz/view?usp=sharing)
 
 * Solutions
  - Formule de Varadhan : voir TP3/Solutions 
