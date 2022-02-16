@@ -83,6 +83,14 @@ Finir la diffusion anisotrope
 * Solutions
  - Formule de Varadhan : voir TP3/Solutions 
 
+TP5 : Résolution numérique de l'équation eikonale
+* Enoncés
+[Eikonal GPU](https://colab.research.google.com/notebook#fileId=182TnSY0Glaabm-LLuoooScIVQNIcuT4n&offline=true&sandboxMode=true).
+* Solutions
+[Eikonal GPU](https://colab.research.google.com/notebook#fileId=1Y7mJ3SdD3GRm0QCtV1bRgHShzBzeLk-j&offline=true&sandboxMode=true),
+
+
+
 <!---
 TP3 : chaleur et géodésiques
 
@@ -117,11 +125,6 @@ TP4 : transport optimal entropique
 * Solutions
  [transport entropique](https://www.dropbox.com/s/a150x3ib3zd3gx4/Sinkhorn.ipynb?dl=0)
 
-TP5 : Résolution numérique de l'équation eikonale
-* Enoncés
-[Eikonal GPU](https://colab.research.google.com/notebook#fileId=182TnSY0Glaabm-LLuoooScIVQNIcuT4n&offline=true&sandboxMode=true).
-* Solutions
-[Eikonal GPU](https://colab.research.google.com/notebook#fileId=1Y7mJ3SdD3GRm0QCtV1bRgHShzBzeLk-j&offline=true&sandboxMode=true),
 
 TP6 : Applications de l'équation eikonale
 * Enoncés [Tubular structure segmentation](https://www.dropbox.com/s/a5l4vh7ngk19mar/Tubular_Exo.ipynb?dl=0),
