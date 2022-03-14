@@ -83,12 +83,26 @@ Finir la diffusion anisotrope
 * Solutions
  - Formule de Varadhan : voir TP3/Solutions 
 
-TP5 : Résolution numérique de l'équation eikonale
+TP6 : Résolution numérique de l'équation eikonale
 * Enoncés
 [Eikonal GPU](https://colab.research.google.com/notebook#fileId=182TnSY0Glaabm-LLuoooScIVQNIcuT4n&offline=true&sandboxMode=true).
 * Solutions
 [Eikonal GPU](https://colab.research.google.com/notebook#fileId=1Y7mJ3SdD3GRm0QCtV1bRgHShzBzeLk-j&offline=true&sandboxMode=true),
 
+
+TP7 : Applications de l'équation eikonale
+* Enoncés [Tubular structure segmentation](https://www.dropbox.com/s/a5l4vh7ngk19mar/Tubular_Exo.ipynb?dl=0),
+[Curvature penalization](https://www.dropbox.com/s/z006km415quurrx/DeviationHorizontality_Exo.ipynb?dl=0).
+* Solutions [Tubular structure segmentation](https://www.dropbox.com/s/dtzc3q2vjazyocc/Tubular.ipynb?dl=0),
+[Curvature penalization](https://www.dropbox.com/s/xt7stg05oqcnwk4/DeviationHorizontality.ipynb?dl=0).
+
+* Enoncés, version Colab.
+[Tubular structure segmentation](https://colab.research.google.com/1pLHYt0UocFeHbjOp5SkS7NvB6XT2ALgx&offline=true&sandboxMode=true),
+[Curvature penalization](https://colab.research.google.com/notebook#fileId=1m1362Cskq8PVUbOZqMiUcYgez9IZHXqG&offline=true&sandboxMode=true).
+
+* Solutions, version Colab.
+[Tubular structure segmentation](https://colab.research.google.com/1AMLRDrNQVXLnOdsracx4ZSwPR7bgi3J9&offline=true&sandboxMode=true),
+[Curvature penalization](https://colab.research.google.com/notebook#1x309yEmht-G8sy9dxJN2LGeOE4INdnmW&offline=true&sandboxMode=true).
 
 
 <!---
