@@ -91,6 +91,7 @@ TP6 : Résolution numérique de l'équation eikonale
 
 
 TP7 : Applications de l'équation eikonale
+(Egalement dans le dossier TP7/)
 * Enoncés [Tubular structure segmentation](https://www.dropbox.com/s/a5l4vh7ngk19mar/Tubular_Exo.ipynb?dl=0),
 [Curvature penalization](https://www.dropbox.com/s/z006km415quurrx/DeviationHorizontality_Exo.ipynb?dl=0).
 * Solutions [Tubular structure segmentation](https://www.dropbox.com/s/dtzc3q2vjazyocc/Tubular.ipynb?dl=0),
