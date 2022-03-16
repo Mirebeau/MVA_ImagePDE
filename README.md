@@ -91,20 +91,18 @@ TP6 : Résolution numérique de l'équation eikonale
 
 
 TP7 : Applications de l'équation eikonale
-(Egalement dans le dossier TP7/)
-* Enoncés [Tubular structure segmentation](https://www.dropbox.com/s/a5l4vh7ngk19mar/Tubular_Exo.ipynb?dl=0),
-[Curvature penalization](https://www.dropbox.com/s/z006km415quurrx/DeviationHorizontality_Exo.ipynb?dl=0).
+* Enoncés [Tubular structure segmentation](https://www.dropbox.com/s/xs2xmywbyi7rct7/Tubular_Exo.ipynb?dl=0),
+[Curvature penalization](https://www.dropbox.com/s/mkvnw4735ux65qt/DeviationHorizontality_Exo.ipynb?dl=0).
 * Solutions [Tubular structure segmentation](https://www.dropbox.com/s/dtzc3q2vjazyocc/Tubular.ipynb?dl=0),
 [Curvature penalization](https://www.dropbox.com/s/xt7stg05oqcnwk4/DeviationHorizontality.ipynb?dl=0).
 
 * Enoncés, version Colab.
-[Tubular structure segmentation](https://colab.research.google.com/1pLHYt0UocFeHbjOp5SkS7NvB6XT2ALgx&offline=true&sandboxMode=true),
+[Tubular structure segmentation](https://colab.research.google.com/notebook#fileId=1pLHYt0UocFeHbjOp5SkS7NvB6XT2ALgx&offline=true&sandboxMode=true),
 [Curvature penalization](https://colab.research.google.com/notebook#fileId=1m1362Cskq8PVUbOZqMiUcYgez9IZHXqG&offline=true&sandboxMode=true).
 
 * Solutions, version Colab.
-[Tubular structure segmentation](https://colab.research.google.com/notebook#fileId=1pLHYt0UocFeHbjOp5SkS7NvB6XT2ALgx&offline=true&sandboxMode=true
-),
-[Curvature penalization](https://colab.research.google.com/notebook#1x309yEmht-G8sy9dxJN2LGeOE4INdnmW&offline=true&sandboxMode=true).
+[Tubular structure segmentation](https://colab.research.google.com/notebook#fileId=1AMLRDrNQVXLnOdsracx4ZSwPR7bgi3J9&offline=true&sandboxMode=true),
+[Curvature penalization](https://colab.research.google.com/notebook#fileId=1x309yEmht-G8sy9dxJN2LGeOE4INdnmW&offline=true&sandboxMode=true).
 
 <!---
 TP3 : chaleur et géodésiques
