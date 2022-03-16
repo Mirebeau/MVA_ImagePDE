@@ -8,6 +8,7 @@ dependencies:
   - notebook
   - scipy
   - agd
+  - hfm
 #  - conda-build
 #  - conda-verify
 #  - anaconda-client
