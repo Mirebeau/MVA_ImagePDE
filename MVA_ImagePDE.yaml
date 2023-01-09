@@ -8,13 +8,4 @@ dependencies:
   - notebook
   - scipy
   - agd
-  - hfm
-#  - conda-build
-#  - conda-verify
-#  - anaconda-client
-#  - nbformat
-#  - nbdime
-#  - ffmpeg
-#  - cudatoolkit
-#  - pip
-#  - ipywidgets
+#  - hfm
