@@ -22,6 +22,13 @@ alt+m pour ouvrir MarkdownLivePreview sous SublimeText
 Les notes seront étendues au fur et a mesure du cours.
 Document : [`MVA.pdf`](MVA.pdf)
 
+## Devoir maison
+
+Devoir maison sur le thème des opérateurs proximaux.
+[Partie théorique](https://dl.dropbox.com/s/w0gjlq2yzmj23f8/DM_MVA_Shared.pdf)
+[Partie numérique](https://dl.dropbox.com/s/9ln7wtufxlzn7zx/MVA_2023_DM_Lasso_Exo.ipynb)
+Facultatif, compte dans la note finale seulement si favorable.
+
 ## Travaux pratiques en langage Python
 
 Notes:
