@@ -29,6 +29,13 @@ Devoir maison sur le thème des opérateurs proximaux.
 [Partie numérique](https://dl.dropbox.com/s/9ln7wtufxlzn7zx/MVA_2023_DM_Lasso_Exo.ipynb)
 Facultatif, compte dans la note finale seulement si favorable.
 
+<!---
+Devoir maison sur le thème de l'équation eikonale.
+[Partie théorique](https://dl.dropbox.com/s/y3c523rcggyuq0x/DM2_MVA_Shared.pdf?dl=0)
+[Partie numérique](https://dl.dropbox.com/s/e34pvk3l4cbrj3b/MVA_2022_DM2_Exo.ipynb?dl=0)
+Facultatif, compte dans la note finale seulement si favorable.
+--->
+
 ## Travaux pratiques en langage Python
 
 Notes:
@@ -80,6 +87,14 @@ TP3 : Diffusion anisotrope
   [Diffusion anisotrope](https://drive.google.com/open?id=1u6_XthpxwycWYIusJoP26x37n2Fvbevh)
  - Liens Colab
   [Diffusion anisotrope](https://colab.research.google.com/notebook#fileId=1u6_XthpxwycWYIusJoP26x37n2Fvbevh&offline=true&sandboxMode=true)
+
+TP4 : Formule de Varadhan
+
++Finir la diffusion anisotrope
+
+* [Formule de Varadhan, énoncé](https://drive.google.com/file/d/1-00l_6sysNFuUNWuvTvGkQYsVObJ9Jzz/view?usp=sharing)
+
+* [Formule de Varadhan, solution](https://drive.google.com/file/d/1-9kTVi4rRhDaaFdUwn0R3PJi3fTfIuZn/view?usp=sharing)
 
 
 ## Environnement
