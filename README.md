@@ -88,13 +88,19 @@ TP3 : Diffusion anisotrope
  - Liens Colab
   [Diffusion anisotrope](https://colab.research.google.com/notebook#fileId=1u6_XthpxwycWYIusJoP26x37n2Fvbevh&offline=true&sandboxMode=true)
 
-TP4 : Formule de Varadhan
+TP4 : Fin de la diffusion anisotrope
 
-+Finir la diffusion anisotrope
+TP5 : Formule de Varadhan
 
 * [Formule de Varadhan, énoncé](https://drive.google.com/file/d/1-00l_6sysNFuUNWuvTvGkQYsVObJ9Jzz/view?usp=sharing)
-
 * [Formule de Varadhan, solution](https://drive.google.com/file/d/1-9kTVi4rRhDaaFdUwn0R3PJi3fTfIuZn/view?usp=sharing)
+
+TP6 : Résolution numérique de l'équation eikonale
+* Enoncé
+[Eikonal GPU](https://colab.research.google.com/notebook#fileId=182TnSY0Glaabm-LLuoooScIVQNIcuT4n&offline=true&sandboxMode=true).
+* Solution
+[Eikonal GPU](https://colab.research.google.com/notebook#fileId=1Y7mJ3SdD3GRm0QCtV1bRgHShzBzeLk-j&offline=true&sandboxMode=true),
+
 
 
 ## Environnement
