@@ -24,17 +24,14 @@ Document : [`MVA.pdf`](MVA.pdf)
 
 ## Devoir maison
 
-Devoir maison sur le thème des opérateurs proximaux.
+Les devoirs maison sont facultatifs, et comptent dans la note finale seulement si favorable.
+
+- Devoir maison sur le thème des opérateurs proximaux.
 [Partie théorique](https://dl.dropbox.com/s/w0gjlq2yzmj23f8/DM_MVA_Shared.pdf)
 [Partie numérique](https://dl.dropbox.com/s/9ln7wtufxlzn7zx/MVA_2023_DM_Lasso_Exo.ipynb)
-Facultatif, compte dans la note finale seulement si favorable.
-
-<!---
-Devoir maison sur le thème de l'équation eikonale.
+- Devoir maison sur le thème de l'équation eikonale.
 [Partie théorique](https://dl.dropbox.com/s/y3c523rcggyuq0x/DM2_MVA_Shared.pdf?dl=0)
 [Partie numérique](https://dl.dropbox.com/s/e34pvk3l4cbrj3b/MVA_2022_DM2_Exo.ipynb?dl=0)
-Facultatif, compte dans la note finale seulement si favorable.
---->
 
 ## Travaux pratiques en langage Python
 
