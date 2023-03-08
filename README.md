@@ -13,6 +13,8 @@ Liens :  [Planning du M2 MVA](https://www.master-mva.com/). Ce dépôt : [https:
 
 [Sujet écrit](https://dl.dropbox.com/s/785ngwp7z253cxn/ExamMVA_Shared.pdf),  [Sujet numérique](https://dl.dropbox.com/s/73yicgke3qjoq3y/TVflow_Exo.ipynb)
 
+[Corrigé écrit](https://dl.dropbox.com/s/r7kngzlts9fm3wp/ExamMVA_Corrige.pdf), [Corrigé numérique](https://dl.dropbox.com/s/6gubvhuar53sp84/TVflow.ipynb)
+
 
 <!---
 Générer un lien Colab
