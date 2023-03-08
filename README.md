@@ -9,10 +9,16 @@ Notes de cours et travaux pratiques pour le cours "EDPs numériques pour le trai
 Liens :  [Planning du M2 MVA](https://www.master-mva.com/). Ce dépôt : [https://github.com/Mirebeau/MVA_ImagePDE](https://github.com/Mirebeau/MVA_ImagePDE).
 
 
+# Examen
+
+[Sujet écrit](https://dl.dropbox.com/s/785ngwp7z253cxn/ExamMVA_Shared.pdf),  [Sujet numérique](https://dl.dropbox.com/s/73yicgke3qjoq3y/TVflow_Exo.ipynb)
+
 
 <!---
 Générer un lien Colab
 https://colab.research.google.com/notebook#fileId= (insérer identifiant) &offline=true&sandboxMode=true
+
+Sinon, simplement mettre le lien drive, l'exexution via Colab est proposée automatiquement.
 
 alt+m pour ouvrir MarkdownLivePreview sous SublimeText 
 --->
